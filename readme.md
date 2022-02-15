@@ -1,8 +1,8 @@
 # Captcha integration for Laravel
 
-[![Latest Stable Version](https://poser.pugx.org/bonecms/laravel-captcha/v/stable)](https://packagist.org/packages/bonecms/laravel-captcha)
-[![Total Downloads](https://poser.pugx.org/bonecms/laravel-captcha/downloads)](https://packagist.org/packages/bonecms/laravel-captcha)
-[![License](https://poser.pugx.org/bonecms/laravel-captcha/license)](https://packagist.org/packages/bonecms/laravel-captcha)
+[![Latest Stable Version](https://poser.pugx.org/abdullahfaqeir/laravel-captcha/v/stable)](https://packagist.org/packages/abdullahfaqeir/laravel-captcha)
+[![Total Downloads](https://poser.pugx.org/abdullahfaqeir/laravel-captcha/downloads)](https://packagist.org/packages/abdullahfaqeir/laravel-captcha)
+[![License](https://poser.pugx.org/abdullahfaqeir/laravel-captcha/license)](https://packagist.org/packages/abdullahfaqeir/laravel-captcha)
 
 ![example1](examples/image1.png)
 ![example2](examples/image2.png)
@@ -22,12 +22,12 @@ Note: If you do not have Composer yet, you can install it by following the instr
 
 #### Step 1. Install package
 ```bash
-composer require bonecms/laravel-captcha
+composer require abdullahfaqeir/laravel-captcha
 ```
 
 | Captcha | Laravel |
 |---|---|
-| [v2.2](https://github.com/igoshev/laravel-captcha/tree/2.2)  | 5.5 - 8.x |
+| [v2.2](https://github.com/igoshev/laravel-captcha/tree/2.2)  | 5.5 - 9.x |
 | [v2.1](https://github.com/igoshev/laravel-captcha/tree/2.1) | 5.4  |
 | [v1.1](https://github.com/igoshev/laravel-captcha/tree/1.1) | 5.3 and below |
 
